@@ -71,4 +71,10 @@ vless://64ba6508-7f14-4ae1-b832-382c9c8818d9@152.234.248.119:8443?flow=xtls-rprx
 
 trojan://cW01MNtd9pHPUegmmCSMFNjWd12P9L3W@151.236.114.215:443?security=tls&sni=node229.overgroup.cloud&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BALTE%20Russia%20Moscow%20MAX%E2%9A%A1%EF%B8%8E
 
+vless://37af0181-5598-4aad-a040-d926bcb65757@plaindune.com:8443?encryption=none&security=tls&sni=plaindune.com&fp=chrome&type=xhttp&mode=auto&host=plaindune.com&path=%2Fapi%2Fv1%2Fupload#%F0%9F%87%B7%F0%9F%87%BALTE%20Russia%20Moscow%E2%84%962%20MAX%E2%9A%A1%EF%B8%8E
+
 trojan://cW01MNtd9pHPUegmmCSMFNjWd12P9L3W@78.159.250.98:443?security=tls&sni=node228.overgroup.cloud&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AALTE%20Germany%20Frankfurt-am-Main%20Gemini%E2%9C%93%20MAX%E2%9A%A1%EF%B8%8E
+
+vless://c02e022e-9c3b-4301-acfa-dcfebf03f46d@188.72.103.4:443?encryption=none&security=tls&sni=yastatic-cache-4019.keno.su&alpn=h2%2C%20http%2F1.1&fp=firefox&type=xhttp&mode=packet-up&host=yastatic-cache-4019.keno.su&path=%2Fapi%2FuploadFile%2F&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000.0%2C%22cMaxReuseTimes%22%3A100.0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A30.0%7D%2C%22uplinkDataKey%22%3A%22X-Payload%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22scMaxEachPostBytes%22%3A4096.0%2C%22uplinkDataPlacement%22%3A%22header%22%7D#%F0%9F%87%AB%F0%9F%87%AELTE%20Finland%20Helsinki%20MAX%E2%9A%A1%EF%B8%8E
+
+vless://c02e022e-9c3b-4301-acfa-dcfebf03f46d@188.72.103.4:443?encryption=none&security=tls&sni=keno-nl-cdn-cello.keno.su&fp=edge&type=xhttp&mode=packet-up&host=keno-nl-cdn-cello.keno.su&path=%2Fapi%2FuploadFile%2F&extra=%7B%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000.0%2C%22cMaxReuseTimes%22%3A100.0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0.0%2C%22hKeepAlivePeriod%22%3A30.0%7D%2C%22uplinkDataKey%22%3A%22X-Payload%22%2C%22uplinkHTTPMethod%22%3A%22GET%22%2C%22scMaxEachPostBytes%22%3A4096.0%2C%22uplinkDataPlacement%22%3A%22header%22%7D#%F0%9F%87%AB%F0%9F%87%AELTE%20Finland%20Helsinki%E2%84%962%20MAX%E2%9A%A1%EF%B8%8E

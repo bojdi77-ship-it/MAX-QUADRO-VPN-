@@ -9,17 +9,6 @@ vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@edge-97960.greatecloud.com:443?flow
 
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@fl.greatecloud.com:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=fl.greatecloud.com&alpn=h2,http/1.1&fp=firefox&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%AEFinland%20Helsinki%2025GBIT/S%20MAX%E2%9A%A1%EF%B8%8E
 
-vless://d81db550-4787-467e-b98a-579ee9d41999@138.16.206.147:443?encryption=none&type=grpc&fm=%7B%22tcp%22:[%7B%22settings%22:%7B%22interval%22:%2210-20%22,%22length%22:%2210-20%22,%22packets%22:%22tlshello%22%7D,%22type%22:%22fragment%22%7D]%7D&security=reality&sni=www.cloudflare.com&pbk=4q4qXs-E4wzxXyV4TrOC-mEzx2S6h_LjQ_t_gc4wQEs&sid=6ba85179e30d4fc2&authority=n1.185-241-195-116.sslip.io&serviceName=inetgrpc#%F0%9F%87%A9%F0%9F%87%AAGermany%20Frankfurt-am-Main%2020GBIT/S%20MAX%E2%9A%A1%EF%B8%8E
-
-vless://9a64798d-7745-4e17-821c-282c10c735ad@201.8.80.216:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%B4Romania+Bucharest+10GBIT%2FS+MAX%E2%9A%A1%EF%B8%8E
-
-vless://9a64798d-7745-4e17-821c-282c10c735ad@172.233.56.185:443?type=grpc&security=reality&fp=chrome&sni=dl.google.com&pbk=cAFMol_SqbGzF6IZSHdOS8taChr8dRe9n3RdxJp0QEQ&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1Netherlands+Amsterdam+25+GBIT%2FS+MAX%E2%9A%A1%EF%B8%8E
-
-vless://c02e022e-9c3b-4301-acfa-dcfebf03f46d@nl-forum-prxv-reverse.keno.su:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl-forum-prxv-reverse.keno.su&pbk=0HbEvKirH3zX6SuURbw9gA9v3Zl6BpIX4VLAPTA_qQ4&sid=a8f4c19e72b305d6#%F0%9F%87%AA%F0%9F%87%BAGaming+MAX%F0%9F%8E%AE
-
-vless://c02e022e-9c3b-0001-acfa-dcfebf03f46d@nl-forum-prxv-reverse.keno.su:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=nl-forum-prxv-reverse.keno.su&pbk=0HbEvKirH3zX6SuURbw9gA9v3Zl6BpIX4VLAPTA_qQ4&sid=a8f4c19e72b305d6#%F0%9F%87%AA%F0%9F%87%BAGaming%E2%84%962+MAX%F0%9F%8E%AE
-
-vless://e8b7b937-85d9-43f3-bb7a-7d98478756d7@185.86.147.80:9443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=keshyou.mcufa.pro&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%E2%9A%A1%EF%B8%8EAUTO%E2%9A%A1%EF%B8%8E%20MAX%F0%9F%8E%AE
 
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@yt.greatecloud.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=yt.greatecloud.com&fp=firefox&pbk=PwVQBPTA1tC9yIPUzDi0m8GpePIt77tAJSxtQLqmOzk&sid=ab12cd02&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BAYouTube%20no%20ADS%20MAX%F0%9F%8E%AE
 
